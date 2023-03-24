@@ -19,4 +19,5 @@ import Config
 
 import_config "config_smoke_server.exs"
 import_config "config_prime_time_server.exs"
-import_config "config_means_to_end.exs"
+import_config "config_means_to_end_server.exs"
+import_config "config_budget_chat_server.exs"
