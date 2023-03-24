@@ -18,3 +18,4 @@ import Config
 #
 
 import_config "config_smoke_server.exs"
+import_config "config_prime_time_server.exs"
